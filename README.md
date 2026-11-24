@@ -9,7 +9,7 @@ Proyecto de análisis de datos sobre el sistema eléctrico, cuyo objetivo es est
 El proyecto incluye:
 
 - **Data:** base de datos SQLite (`electricidad.db`) y archivo Excel (`electricidad_para_panel.xlsx`) con los datos utilizados.
-- **Notebooks:** cuaderno Jupyter con los ejercicios y análisis realizados en Python, además de una visualización HTML.
+- **Notebooks:** cuaderno Jupyter con los ejercicios y análisis realizados en Python.
 - **Docs:** documento PDF con las instrucciones de la prueba individual.
 
 ## Análisis realizados
